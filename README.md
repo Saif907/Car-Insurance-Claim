@@ -1,10 +1,10 @@
 # Car Insurance Claim Predictor
 
-![Python Version](https://img.shields.io/badge/python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.103.1-009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.26.0-FF4B4B)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-blue)
+![Python Version](https://img.shields.io/badge/python-3.14.5-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.136.3-009688)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.58.0-FF4B4B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.0-F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-blue)
 
 A complete, production-grade Machine Learning pipeline that predicts the likelihood of a car insurance claim and estimates the potential claim cost for policyholders.
 
